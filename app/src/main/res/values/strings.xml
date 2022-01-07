@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ClickCounter</string>
+    <string name="shared_key">Riwayat Waktu</string>
+    <string name="key_jari">Riwayat</string>
+    <string name="jumlah_klik">Jumlah</string>
+    <string name="waktu_awal">Waktu Awal</string>
+</resources>

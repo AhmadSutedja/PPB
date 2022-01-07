@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "695553012510",
+    "firebase_url": "https://clickcounter-123af-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "clickcounter-123af",
+    "storage_bucket": "clickcounter-123af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695553012510:android:4a870aece1ddc68266cf0f",
+        "android_client_info": {
+          "package_name": "com.example.clickcounter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695553012510-pts1r19oe0pod5rcqe713tn4la70glbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRKkV2bsqH5mExutgNTl7_TnBUn75Qdhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695553012510-pts1r19oe0pod5rcqe713tn4la70glbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

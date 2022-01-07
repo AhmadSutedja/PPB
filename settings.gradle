@@ -1,0 +1,11 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        // https://rivaldi48.blogspot.com/2020/05/Tutorial-Membuat-Aplikasi-CRUD-Menggunakan-Firebase-Realtime-Database.html
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "ClickCounter"
+include ':app'
